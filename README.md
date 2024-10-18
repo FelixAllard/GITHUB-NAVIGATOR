@@ -35,3 +35,4 @@ WPF application
 Laravel
 - [Final project PHP](https://github.com/FelixAllard/FinalProjectPHP) : A fullstack application with laravel that uses bootstrap. Single page application that shows different product and allows login.
 - [StatelessPet](https://github.com/FelixAllard/PHPStatelessPet) : My first Laravel Project for an assignment!
+
