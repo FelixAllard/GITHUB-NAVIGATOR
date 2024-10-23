@@ -28,6 +28,7 @@ ASP
 - [Champlain Pet Clinic](https://github.com/cgerard321/champlain_petclinic) : I made the entire emailing-service and it's testing.
 - [ASP-MVC-Movie-Review-Platform](https://github.com/FelixAllard/ASP-MVC-Movie-Review-Platform) : This project was a simple homework to implement MVC pattern into an application!
 - [PrototypeApplication](https://github.com/FelixAllard/PrototypeAppointmentSystem) : This project is a simple homework and an introduction to MVC pattern with ASP.Net
+- [Authentification Lab](https://github.com/FelixAllard/ASP.Net-Authentification-lab) : This project is a simple practice and and introduction to Authentification in a ASP.Net Api
 WPF application
 - [ThunderstoreModFormatter](https://github.com/FelixAllard/ThunderstoreModFormatter) : A little experiment that uses the window file system to find the mods present on your device and see each different type of mod. It uses a Sqlite databse to keep the mods in the memmory so you can view the mods details without having to navigate to the thunderstore.io website. The interface wasn't the main focus [FINAL VERSION]
 
@@ -35,4 +36,8 @@ WPF application
 Laravel
 - [Final project PHP](https://github.com/FelixAllard/FinalProjectPHP) : A fullstack application with laravel that uses bootstrap. Single page application that shows different product and allows login.
 - [StatelessPet](https://github.com/FelixAllard/PHPStatelessPet) : My first Laravel Project for an assignment!
+
+## Python
+Flask
+- [TXYZ VR](https://github.com/FelixAllard/TXYZ-VR) : A project between me and my friend Justin to create a body tracking solution for a low price! [IN DEVELOPMENT]
 
