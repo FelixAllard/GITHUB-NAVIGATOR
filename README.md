@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository organizes all of my projects int
 ## Web Development In Java
 - [Champlain Pet Clinic](https://github.com/cgerard321/champlain_petclinic) : I worked on the Visit Microservice
 - [GroceryStoreSPRINGMicroServices](https://github.com/username/projectA](https://github.com/FelixAllard/GroceryStoreSPRINGMicroServices): An API backend for a grocery store. This application supports Get Post Put and Delete
-- [FinalProjectWebServices](https://github.com/username/projectB](https://github.com/FelixAllard/Final-Project-Web-Services): My application implement Get Post Put and Delete and also has an api gateway. There are 3 services that pass through the Api Gateway including the aggregator service.
+- [FinalProjectWebServices](https://github.com/FelixAllard/Final-Project-Web-Services): My application implement Get Post Put and Delete and also has an api gateway. There are 3 services that pass through the Api Gateway including the aggregator service.
 - [ReactiveEnrollmentSystem](https://github.com/FelixAllard?tab=repositories) : And application that uses reactive response. I also made the appropriate testing!
 
 ## Lethal Company Mods
