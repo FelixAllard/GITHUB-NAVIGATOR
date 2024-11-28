@@ -6,7 +6,11 @@ Welcome to my GitHub portfolio! This repository organizes all of my projects int
 - [GroceryStoreSPRINGMicroServices](https://github.com/username/projectA](https://github.com/FelixAllard/GroceryStoreSPRINGMicroServices): An API backend for a grocery store. This application supports Get Post Put and Delete
 - [FinalProjectWebServices](https://github.com/FelixAllard/Final-Project-Web-Services): My application implement Get Post Put and Delete and also has an api gateway. There are 3 services that pass through the Api Gateway including the aggregator service.
 - [ReactiveEnrollmentSystem](https://github.com/FelixAllard?tab=repositories) : And application that uses reactive response. I also made the appropriate testing!
+- [Haven Lab](https://github.com/FelixAllard/Haven-Lab.git) : Haven Lab is a company that makes hair products, as part of a team of 4 peoples, I was responsible to implement the Shopify integration of the website and build the front end.
 
+
+## Game Development
+-[NoLightsBelow](https://github.com/FelixAllard/No-Lights-Below) : A multiplayer game started with Justin Morisette ( Justin222993 : Github ). Multiplayer game, using mirror and that is made to integrate with steam. No more detail will be revealed here before the game is publish.
 ## Lethal Company Mods
 Those are project I made in unity to implement in a game codebase! 
 - [SCP1507LC](https://github.com/FelixAllard/SCP1507LC) : This is a project that adds SCP 1507 (a monster) with custom AI and behavior to the game Lethal Company. This was a paid commission. [MAINTAINED PROJECT]
@@ -41,3 +45,5 @@ Laravel
 Flask
 - [TXYZ VR](https://github.com/FelixAllard/TXYZ-VR) : A project between me and my friend Justin to create a body tracking solution for a low price! [IN DEVELOPMENT]
 
+
+GITHUB-Navigator VERSION 1.0.0
