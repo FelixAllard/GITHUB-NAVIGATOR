@@ -47,4 +47,4 @@ Flask
 - [TXYZ VR](https://github.com/FelixAllard/TXYZ-VR) : A project between me and my friend Justin to create a body tracking solution for a low price! [IN DEVELOPMENT]
 
 
-GITHUB-Navigator VERSION 1.0.8
+GITHUB-Navigator VERSION 1.0.9
